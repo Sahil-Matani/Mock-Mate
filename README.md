@@ -170,4 +170,4 @@ graph LR
    npm run dev
    ```
 
-<p align="center">Made by Akhil Thirunalveli</p>
+
